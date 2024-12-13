@@ -1,0 +1,7 @@
+"Id","Password","Account","Jobtype","Salary","Payscale","Full-time","Hour Rate","Promotion","CivilStatus","name"
+"admin","admin","admin","","","","","",""
+"hr","hr","hr","","","","","","","",""
+"1","1","employee","Library Assistant","37881","4","yes","","false","4","john"
+"2","2","employee","Professor","115107","3","yes","","false","2","Mary"
+"3","3","employee","Computer Operator","35114","2","no","18.28","false","3","Mark"
+"4","4","employee","Technical Officer","39828","1","no","20.74","false","1","pauline"
