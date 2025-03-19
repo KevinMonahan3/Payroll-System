@@ -1,6 +1,6 @@
 # CS4013-Project
 
-This is a short explanation on where each file is located and how to run the programme.
+This is a short explanation on where each file is located and how to run the programme. This project was coded soley using Java using CSV files as our database for data
 
 # File Locations
 
